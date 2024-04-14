@@ -2,7 +2,9 @@
 
 ## Descrição do Jogo
 BEEn Moving é um jogo desenvolvido no Construct 3, no qual, você assume o papel de uma abelha que voa pelo céu, desviando habilmente das nuvens de chuva para coletar o pólen que está disperso no ar. Cada pólen coletado adiciona um ponto à sua pontuação. No entanto, tome cuidado, pois se a abelha bater em uma nuvem, ela perde 1(uma) de suas 3(três) vidas, quando suas vidas forem zeradas – “GAME OVER”. 
+
 Cuidado redobrado!!: se a abelha cair no chão ou ultrapassar a parte superior da tela, ela morre instantaneamente – “GAME OVER”. 
+
 Na tela de “GAME OVER”, você pode inserir o seu nome na caixa de entrada exposta, sua pontuação é guardada em um banco de dados, e logo em seguida exibida na tela, assim você pode comparar sua pontuação com outros jogadores e gerar uma grande competição.
 
 ## Funcionalidades Principais
