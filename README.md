@@ -15,8 +15,8 @@ Na tela de “GAME OVER”, você pode inserir o seu nome na caixa de entrada ex
 - Sistema de vida: Se a abelha colidir com uma nuvem de chuva perde 1(uma) de suas 3(três) vidas, assim, até zerar seus “corações”, dessa forma, a abelha morre e você tem acesso a tela de “GAME OVER”, isso também ocorre se você tocar/cair no chão ou ultrapassar a parte superior da tela.
 
 ## Tecnologias Utilizadas
-- Construct 3: Uma plataforma de desenvolvimento de jogos baseada em navegador que permite criar jogos 2D e 3D sem a necessidade de codificação.
-- Firebase: Uma plataforma de desenvolvimento de aplicativos móveis e da web desenvolvida pelo Google para ajudar os desenvolvedores a criar e gerenciar aplicativos de alta qualidade.
+- Construct 3: Uma plataforma de desenvolvimento de jogos, que permite criar jogos 2D.
+- Firebase: Uma plataforma que contém um conjunto de serviços de computação em nuvem de back-end e plataformas de desenvolvimento de aplicativos fornecidos pelo Google.
 
 ## Como Jogar
 1. Acesse o jogo em https://gi-cardoso.github.io/jogo-construct-BEEn-Moving/
