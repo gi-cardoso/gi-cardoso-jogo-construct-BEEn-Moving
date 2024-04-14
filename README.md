@@ -19,7 +19,7 @@ Na tela de “GAME OVER”, você pode inserir o seu nome na caixa de entrada ex
 - Firebase: Uma plataforma de desenvolvimento de aplicativos móveis e da web desenvolvida pelo Google para ajudar os desenvolvedores a criar e gerenciar aplicativos de alta qualidade.
 
 ## Como Jogar
-1. Acesse o jogo em https://gi-cardoso.github.io/gi-cardoso-jogo-construct-BEEn-Moving/
+1. Acesse o jogo em https://gi-cardoso.github.io/jogo-construct-BEEn-Moving/
 2. Pressione a tecla "espaço" para iniciar e fazer a abelha voar para cima.
 3. Desvie das nuvens de chuva enquanto coleta o pólen.
 4. Tente alcançar a pontuação mais alta!
